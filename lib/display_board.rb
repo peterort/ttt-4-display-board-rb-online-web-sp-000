@@ -12,4 +12,5 @@ board = [" "," "," "," "," "," "," "," "," "]
 
 display_board(board)
 
-display_board(board = [" ", " ", " ", " ", "X", " ", " ", " ", " "])
+board = [" "," "," "," ","X "," "," "," "," "]
+display_board(board)
